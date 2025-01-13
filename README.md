@@ -1,1 +1,1 @@
-A web, illetve desktop fájl, egy állatkert témájú szakdolgozat volt, a desktop alkalmazás egy C# grafikus projekt, adatbázis kapcsolattal, a web pedig egy html, css, javascript weblap. A dokumentumtár egyetemi projekt munka, csak kliens oldali programozás.
+OKJ tanfolyam szakdolgozata. A webalkalmazás, illetve a desktop, egy állatkert témájú szakdolgozat volt, a desktop alkalmazás egy C# grafikus projekt, adatbázis kapcsolattal, a web pedig egy html, css, javascript weblap. 
